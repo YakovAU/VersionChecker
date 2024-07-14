@@ -11,8 +11,8 @@ This mod for 7 Days to Die checks for version mismatches between the game and th
 ## Installation
 
 1. Download the latest release of the mod from the [Releases](https://github.com/yourusername/versioncheckmod/releases) page.
-2. Extract the contents of the zip file into your 7 Days to Die Mods folder.
-3. Ensure that the `versioncheck.xml` file is present in the mod folder.
+2. Extract the contents of the zip file into your Mod's folder (not the Mod's folder, but the folder your mod files are in)
+3. Ensure that the `versioncheck.xml` file is present in the folder and configured.
 
 ## Configuration
 
